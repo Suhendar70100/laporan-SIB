@@ -12,18 +12,17 @@ Laporan harian selama mengikuti masa kegiatan Kampus Merdeka - Studi Independen 
 
 ##### Selasa, 02 Agustus 2022
 - Mulai mengerjakan modul "Memulai Dasar Pemrograman untuk Menjadi Pengembang Software"
+- Hari ini saya memulai materi baru lagi dari platform dicoding, hari ini saya belajar Memulai Dasar Pemrograman untuk Menjadi Pengembang Software, di materi ini saya sangat senang sekali karena ada banyak materi yang disertai video dan tidak lupa materi tertulisnya juga.
 
 ##### Rabu, 03 Agustus 2022
 - Melanjutkan module "Memulai Dasar Pemrograman untuk Menjadi Pengembang Software"
-- xxxxxx
+- Hari ini saya melanjutkan materi Dasar untuk pengembang softaware, dimateri ini saya belajar tentang dasar pemrograman dengan bahasa pemrograman javascript. 
 
 ##### Kamis, 04 Agustus 2022
-- xxxxxxx
-- xxxxxxx
+- Hari ini saya melanjutkan materi Dasar Pemrograman Software sampai tuntas, selain itu saya belajar materi baru yaitu belajar dasar git dan github, disini saya belajar apa itu git, membuat akun github, bagaimana membuat repository dan lain-lain.
 
 ##### Jumat, 05 Agustus 2022
-- xxxxxxx
-- xxxxxxx
+- Hari ini saya melanjutkan materi dasar git dan github, dan Alhamdulillah telat selesai dan tuntas.
 
 ___
 
